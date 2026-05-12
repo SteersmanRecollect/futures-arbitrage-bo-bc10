@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with automatic futures arbitrage bot | position-sizing + order-book-analysis, the #1 futures arbitrage bot. Includes position-sizing and order-book-analysis
 
 
 
